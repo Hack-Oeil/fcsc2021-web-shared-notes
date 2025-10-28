@@ -5,7 +5,7 @@ On vous demande d’auditer cette nouvelle solution de partage de notes.
 Note : le flag est au format : <code>FCSC{[0-9a-f]{10}}</code> (exemple : <code>FCSC{001122aabb}</code>).
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Shared Notes](https://hackropole.fr/fr/challenges/web/fcsc2021-web-shared-notes/)
 
